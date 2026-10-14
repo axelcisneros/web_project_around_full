@@ -28,7 +28,8 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
-    "mongoose": "^9.9.4"
+    "mongoose": "^9.9.4",
+    "web_project_around_full": "file:.."
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

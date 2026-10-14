@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "react-router-dom": "^7.18.4"
+    "react-router-dom": "^7.18.4",
+    "web_project_around_full": "file:.."
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
